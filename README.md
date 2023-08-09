@@ -6,5 +6,5 @@
 
 ## Deployment:
 
-- The backend is deployed on Vercel: https://realestatelocofy.vercel.app/
+- The project is deployed on Vercel: https://realestatelocofy.vercel.app/
   
