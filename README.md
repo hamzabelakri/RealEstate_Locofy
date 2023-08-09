@@ -1,11 +1,10 @@
+- Learning how to transform a real estate figma design into a fully responsive and functional application with the help of AI tool lockify that turns designs into production ready code.
+  
+- Using Nexjs13 and Tailwind CSS to create two pages masterpiece.
+  
+- Connecting to Supabase database and fetching Dynamic data from.
 
-  # Real Estate
+## Deployment:
 
-  Note: Please ensure you have installed <code><a href="https://nodejs.org/en/download/">nodejs</a></code>
-
-  To preview and run the project on your device:
-  1) Open project folder in <a href="https://code.visualstudio.com/download">Visual Studio Code</a>
-  2) In the terminal, run `npm install`
-  3) Run `npm run dev` to view project in browser
-
+- The backend is deployed on Vercel: https://realestatelocofy.vercel.app/
   
